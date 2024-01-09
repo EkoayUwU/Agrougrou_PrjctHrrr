@@ -15,5 +15,8 @@
 			"Name": "Composure",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
